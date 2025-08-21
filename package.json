@@ -1,0 +1,22 @@
+{
+  "name": "@passwordless-id/openid-types",
+  "version": "1.0.0",
+  "description": "OpenID type definitions.",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/passwordless-id/openid-types.git"
+  },
+  "keywords": [
+    "OAuth2",
+    "OpenID",
+    "OIDC",
+    "PKCE"
+  ],
+  "author": "Arnaud Dagnelies",
+  "license": "MIT",
+  "funding": "https://github.com/sponsors/passwordless-id",
+  "bugs": {
+    "url": "https://github.com/passwordless-id/openid-types/issues"
+  }
+}
